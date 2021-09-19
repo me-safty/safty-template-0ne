@@ -42,10 +42,10 @@ body {
 }
 @media (max-width: 768px) {
   .head h1 {
-    font-size: 75px;
+    font-size: 67px;
   }
   .head p {
-    font-size: 15px;
+    font-size: 13px;
     margin: -22px auto;
     width: fit-content;
   }
