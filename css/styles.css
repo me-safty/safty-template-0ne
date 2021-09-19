@@ -46,7 +46,8 @@ body {
   }
   .head p {
     font-size: 15px;
-    margin: -22px;
+    margin: -22px auto;
+    width: fit-content;
   }
 }
 /* small */
